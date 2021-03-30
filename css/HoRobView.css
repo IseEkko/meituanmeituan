@@ -18,7 +18,7 @@ body {
     position: relative;
 }
 
-#mask {
+#mask,#mask1 {
     display: none;
     width: 100%;
     height: 100%;
